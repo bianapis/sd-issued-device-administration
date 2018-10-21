@@ -1,0 +1,14 @@
+{
+  "allocationReference" : "AR48927485648",
+  "issuedDevicePasswordRecord" : {},
+  "issuedDeviceChequeReference" : "CR5903859114167",
+  "issuedDeviceDeviceReference" : "DR5903859114167",
+  "issuedDeviceQuestionReference" : "QR5903859114167",
+  "issuedDeviceDeviceRecord" : {},
+  "issuedDeviceChequeRecord" : {},
+  "customerReference" : "CRE378163745142",
+  "issuedDeviceReaderRecord" : {},
+  "issuedDevicePasswordReference" : "PR5903859114167",
+  "issuedDeviceReaderReference" : "RR5903859114167",
+  "issuedDeviceQuestionRecord" : {}
+}

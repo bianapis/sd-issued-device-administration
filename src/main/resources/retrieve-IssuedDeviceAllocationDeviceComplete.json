@@ -1,0 +1,19 @@
+{
+  "issuedDeviceConfiguration" : {},
+  "allocationReference" : "AR48927485648",
+  "issuedDeviceDeviceReference" : "DR5903859114167",
+  "deliveryMethod" : "MAIL",
+  "issuedDeviceDeviceRecord" : {},
+  "issuedDeviceStatus" : "SUSPENDED",
+  "customerCustomizationReference" : "CCR73654646",
+  "issuedDeviceType" : "DEVICE",
+  "versionNumber" : "V-2.0.0",
+  "issueLocation" : "Snorkel Rd. 42 - UK",
+  "issuedDeviceSerialNumber" : "XXXX000-XXXX000",
+  "productInstanceReference" : "PIR7235464",
+  "associatedPermissions" : "associatedPermissions",
+  "usageLog" : "usageLog",
+  "customerReference" : "CRE378163745142",
+  "issueDate" : "29-05-2018",
+  "validFromToDate" : "[10-12-2018, 31-12-2022]"
+}

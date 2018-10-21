@@ -1,0 +1,14 @@
+{
+  "productInstanceReference" : "asdf1a88454er1a4d",
+  "sequenceNumber" : "[asdf1a88454er1a4d,kdgdf1a81484er1a4a]",
+  "allocationReference" : "48927485648",
+  "issuedDeviceChequeReference" : "5903859114167",
+  "issuedDeviceChequeRecord" : {},
+  "customerReference" : "CRE378163745142",
+  "issuedDeviceStatus" : "CASHED",
+  "issueDate" : "2018-09-26T05:56:05.007",
+  "issuedDeviceType" : "CHEQUE",
+  "issuedDeviceTemplateOrValues" : "v454sfd1548791-dgdf1a8-df1484er1a4a",
+  "validFromToDate" : "[10-12-2018, 31-12-2022]",
+  "issueLocation" : "Snorkel Rd. 42 - UK"
+}
